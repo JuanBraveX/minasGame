@@ -30,6 +30,6 @@ This is a Java implementation of the classic game "Minesweeper," created as a ch
 3. Run the `MinesweeperGame` class.
 
 ```bash
-git clone https://github.com/your-username/minesweeper.git
-cd minesweeper
+git clone https://github.com/JuanBraveX/minasGame.git
+cd minasGame
 # Open in your IDE and run the MinesweeperGame class
